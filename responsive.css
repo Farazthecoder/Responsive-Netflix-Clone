@@ -2,7 +2,7 @@
 
     main {
         max-width: 100vw;
-        height: 90vh;
+        height: auto;
         background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/ca6a7616-0acb-4bc5-be25-c4deef0419a7/c5af601a-6657-4531-8f82-22e629a3795e/IN-en-20231211-popsignuptwoweeks-perspective_alpha_website_large.jpg");
         background-position: center;
         background-size: max(130vw, 2500px);
@@ -10,6 +10,7 @@
         /* position: relative; */
         background-color: rgba(0, 0, 0, 0.549);
         background-blend-mode: overlay;
+        padding: 1rem 0;
     }
 
 
@@ -179,7 +180,7 @@
 
     main {
         max-width: 100vw;
-        height: 70vh;
+        height: auto;
         background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/ca6a7616-0acb-4bc5-be25-c4deef0419a7/c5af601a-6657-4531-8f82-22e629a3795e/IN-en-20231211-popsignuptwoweeks-perspective_alpha_website_large.jpg");
         background-position: center;
         background-size: max(130vw, 2000px);
@@ -187,6 +188,7 @@
         /* position: relative; */
         background-color: rgba(0, 0, 0, 0.549);
         background-blend-mode: overlay;
+        padding: 1rem 0;
     }
 
 
